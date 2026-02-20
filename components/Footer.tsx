@@ -112,12 +112,12 @@ export default function Footer() {
           <p className="text-xs text-muted/40">
             Developed by{" "}
             <a
-              href="https://www.andilemtetwa.com/"
+              href="https://sa-telecoms.co.za/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted/60 hover:text-accent-cyan transition-colors"
             >
-              Andile Mtetwa Innovations PBC
+              SA Telecoms
             </a>
           </p>
         </div>
